@@ -1,0 +1,20 @@
+{
+  "dependencies": [
+    "fmt",
+    "zstd",
+    {
+      "name": "folly",
+      "features": [
+        "zstd",
+        "libaio"
+      ],
+      "version>=": "2024.06.24.00"
+    }
+  ],
+  "overrides": [
+    {
+      "name": "folly",
+      "version": "2024.06.24.00"
+    }
+  ]
+}
