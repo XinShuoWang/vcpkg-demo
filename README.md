@@ -1,0 +1,2 @@
+- [初始化](https://learn.microsoft.com/en-us/vcpkg/get_started/get-started?pivots=shell-bash)
+- [仓库列表](https://vcpkg.link/ports/folly/v/2024.06.24.00/1)
