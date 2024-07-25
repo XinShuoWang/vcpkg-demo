@@ -1,2 +1,2 @@
-cmake --preset=default
+cmake -DCMAKE_BUILD_TYPE=Debug --preset=default
 cmake --build build
